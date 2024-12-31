@@ -7,5 +7,8 @@ public class Test {
 	public void sub() {
 		
 	}
-
+	public void mul()
+	{
+	}
+	
 }
