@@ -13,4 +13,11 @@ public class Test {
 	public void div(){
 		
 	}
+
+
+	public voif add()
+	{
+		System.out.printlm("mera yasu yasu");
+	}
+	
 }
