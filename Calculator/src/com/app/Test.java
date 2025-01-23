@@ -17,7 +17,7 @@ public class Test {
 
 	public voif add()
 	{
-		System.out.printlm("mera yasu yasu");
+		System.out.printlm("");
 	}
 	
 }
