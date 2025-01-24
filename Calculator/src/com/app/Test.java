@@ -13,11 +13,11 @@ public class Test {
 	public void div(){
 		
 	}
-
-
-	public voif add()
-	{
-		System.out.printlm("");
+	public void mul() {
+		System.out.println("Multiplication");
 	}
+
+
+	
 	
 }
